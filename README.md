@@ -32,7 +32,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
  6. Plot the results by using the DataFrame `plot` method, as the following image shows:
     
-    ![precipitation.]("..SurfsUp/Images/precipitation.jpg")
+    ![precipitation.](SurfsUp/Images/precipitation.jpg)
 
  7. Use Pandas to print the summary statistics for the precipitation data.
 
